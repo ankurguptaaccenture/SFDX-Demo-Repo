@@ -2,4 +2,8 @@
 # More information: https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_exclude_source.htm
 #
 
+<<<<<<< HEAD
 package.xml
+=======
+package.xml
+>>>>>>> 1fc94b6dba22eeccadc5aff0619c199d85a82260
